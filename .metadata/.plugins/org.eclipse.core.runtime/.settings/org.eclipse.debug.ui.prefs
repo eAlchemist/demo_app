@@ -1,0 +1,10 @@
+#Sun Sep 26 12:20:30 PDT 2010
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
+org.eclipse.debug.ui.consoleBackground=43,63,84
+StringVariablePreferencePage=178,148,148,118,
+org.eclipse.debug.ui.outColor=255,255,255
+Console.highWaterMark=88000
+preferredTargets=default\:default|
+eclipse.preferences.version=1
+org.eclipse.debug.ui.errorColor=128,0,0
+org.eclipse.debug.ui.inColor=255,255,255

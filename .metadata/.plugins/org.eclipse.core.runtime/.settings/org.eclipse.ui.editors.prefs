@@ -1,0 +1,10 @@
+#Sun Sep 26 12:42:10 PDT 2010
+changeIndicationColor=0,51,0
+writeOccurrenceIndicationColor=46,73,96
+showWhitespaceCharacters=true
+eclipse.preferences.version=1
+searchResultIndicationColor=64,102,134
+additionIndicationColor=0,51,0
+deletionIndicationColor=74,11,11
+occurrenceIndicationColor=46,73,96
+overviewRuler_migration=migrated_3.1
